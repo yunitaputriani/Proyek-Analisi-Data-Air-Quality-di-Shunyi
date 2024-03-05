@@ -43,6 +43,8 @@ Untuk membuat Analisis Dashboard Air Quality, ikuti langkah berikut :
     ```
     streamlit run dashboard.py
     ```
+3. Upload file dashboard.py ke GitHub
+4. Diploy menggunakan streamlit app dengan menghubungkan akun dengan GitHub
 
 ### File Lain
 
